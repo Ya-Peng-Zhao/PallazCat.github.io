@@ -62,8 +62,8 @@ I enjoy writing random things!
 
 [Supplement to Ruelle's Proof about Extention of Lee-Yang Theorem](https://www.overleaf.com/read/mwdfqjhygdnn#20a0e1)
 
-My Email (It is my pleasure to receive your emails!)
+My Email (Please feel free to contact me!)
 ======
-yapeng.zhao at mail dot utoronto dot ca
+yapeng dot zhao at mail dot utoronto dot ca
 
 
