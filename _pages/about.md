@@ -10,15 +10,13 @@ redirect_from:
 
 Updated Date 
 ======
-2026/25/April
-
+May 21th, 2026
 
 Who I Am
 ======
 I am about to graduate from Peking University in China and become a PhD student at the University of Toronto majoring in Pure Mathematics this September. 
 
-I expect that I am going to compete with AI and join it.
-
+I hope to understand mathematics in an era where AI may become both a competitor and a collaborator.
 
 My Academic Interests 
 ======
@@ -33,9 +31,9 @@ physics.
  
 My Hobbies
 ======
-I love sports and I am absolutely an outdoorsy people.
+I love sports and I am an outdoorsy people.
 
-I am an amateur runner, interested in 5k, 10k, half marathons and full marathons. I could finish a marathon in 3h15min, but I was injured at the end of 2025. I am trying to recover!
+I am an amateur runner, interested in 5k, 10k, half marathons and full marathons. I have run a marathon in 3h15min, but I was injured at the end of 2025. It took me over six months to recover!
 
 I love trail running as well, I enjoy running across rivers in the mountains, watching beautiful sightseeings at the same time! I hope that one day I can climb snow-covered mountains.
 
@@ -46,7 +44,7 @@ Research Projects
 I finished a project lying in the interface of Maths and Chemistry under the supervision of Zhiqiang Li from Peking University, it has been submitted. See [Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation](https://www.researchsquare.com/article/rs-9275333/v1) if you are interested and this is the PPT about what we did [Chemical Oscillation and Limit Cycles](https://www.overleaf.com/read/zpqmhcrqpngc#c44a25).
 
 
-I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of Roland Roeder from IU Indiapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
+I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of Roland Roeder from IU Indianapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
 the supervision of professor Ilia Binder from the University of Toronto can be viewed as one initial step of my interest in Hilbert's 6th problem.
 
 
