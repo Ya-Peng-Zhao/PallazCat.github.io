@@ -9,7 +9,7 @@
 locale                   : "China, Beijing"
 title                    : "Zhao Yapeng / 兔狲"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yapeng Zhao"
 description              : &description "personal description"
 url                      : https://PallazCat.github.io # the base hostname & protocol for your site e.g. "https://PallazCat.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
