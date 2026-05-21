@@ -24,6 +24,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> yapeng dot zhao at mail dot utoronto dot ca</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -71,7 +72,7 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
       {% if author.lastfm %}
-        <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
+        <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square"></i> Last.fm</a></li>
       {% endif %}
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble-square" aria-hidden="true"></i> Dribbble</a></li>
