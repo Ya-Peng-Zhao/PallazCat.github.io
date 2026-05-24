@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yapeng Zhao's Homepage.(赵雅鹏)"
-excerpt: "About me"
+title: "Yapeng Zhao | Pure Mathematics PhD Student"
+excerpt: "Yapeng Zhao is a pure mathematics PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,17 +10,17 @@ redirect_from:
 
 Updated Date 
 ======
-May 21th, 2026
+May 21st, 2026
 
 Who I Am
 ======
-I am about to graduate from Peking University in China and become a PhD student at the University of Toronto majoring in Pure Mathematics this September. 
+I am Yapeng Zhao, a student about to graduate from Peking University in China and become a PhD student in Pure Mathematics at the University of Toronto this September.
 
 I hope to understand mathematics in an era where AI may become both a competitor and a collaborator.
 
 My Academic Interests 
 ======
-Generally, I am interested in Mathematical Physics, but I do have broad interests in both mathematics and sciences.
+Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
 
 Hilbert’s sixth problem was partially solved by Andrey Kolmogorov in the 1930s by putting
 probability theory on an axiomatic basis. The most recent advance is the derivation of fluid equations
