@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Pure Mathematics, Department of Mathematics, University of Toronto, 2026-
-* B.S. School of Mathematical Sciences, Peking University, 2023-
+* B.S. School of Mathematical Sciences, Peking University, 2023-2026
 * B.S. College of Chemistry and Molecular Engineering, Peking University, 2021-2023
 
 
