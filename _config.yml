@@ -11,9 +11,9 @@ title                    : "Yapeng Zhao / 兔狲"
 title_separator          : "-"
 name                     : &name "Yapeng Zhao"
 description              : &description "personal description"
-url                      : https://Ya-Peng-Zhao.github.io # the base hostname & protocol for your site e.g. "https://Ya-Peng-Zhao.github.io"
+url                      : https://YapengZhao-Math.github.io # the base hostname & protocol for your site e.g. "https://YapengZhao-Math.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ya-Peng-Zhao/Ya-Peng-Zhao.github.io"
+repository               : "YapengZhao-Math/YapengZhao-Math.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "我们必须知道，我们必将知道！！"
   location         : "currently at PKU"
   #email            : "zhaoyapeng@stu.pku.edu.cn"
-  github           : "Ya-Peng-Zhao"
+  github           : "YapengZhao-Math"
  # employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -97,7 +97,7 @@ author:
  # flickr           :
  # facebook         :
  # foursquare       :
- # github           : "Ya-Peng-Zhao"
+ # github           : "YapengZhao-Math"
   # google_plus      :
  # keybase          :
  # instagram        :
