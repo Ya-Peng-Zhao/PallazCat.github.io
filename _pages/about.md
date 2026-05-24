@@ -41,11 +41,11 @@ I am interested in French opera and traditional Chinese-style music.
 
 Research Projects
 ======
-I finished a project lying in the interface of Maths and Chemistry under the supervision of Zhiqiang Li from Peking University, it has been submitted. See [Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation](https://www.researchsquare.com/article/rs-9275333/v1) if you are interested and this is the PPT about what we did [Chemical Oscillation and Limit Cycles](https://www.overleaf.com/read/zpqmhcrqpngc#c44a25).
+I finished a project lying in the interface of Maths and Chemistry under the supervision of [Zhiqiang Li](https://math.pku.edu.cn/teachers/lizq/index.html) from Peking University, it has been submitted. See [Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation](https://www.researchsquare.com/article/rs-9275333/v1) if you are interested and this is the PPT about what we did [Chemical Oscillation and Limit Cycles](https://www.overleaf.com/read/zpqmhcrqpngc#c44a25).
 
 
-I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of Roland Roeder from IU Indianapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
-the supervision of professor Ilia Binder from the University of Toronto can be viewed as one initial step of my interest in Hilbert's 6th problem.
+I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of [Roland Roeder](https://science.indianapolis.iu.edu/math/~roederr/) from IU Indianapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
+the supervision of professor [Ilia Binder](https://www.math.toronto.edu/ilia/) from the University of Toronto can be viewed as one initial step of my interest in Hilbert's 6th problem.
 
 
 Honors & Awards
